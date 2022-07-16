@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-    <PackageId>MoneyExtensions</PackageId>
+    <PackageId>TesteDaKarenMoneyExtensions</PackageId>
     <Version>1.0.0</Version>
     <License>MIT</License>
     <Authors>Karen Melo</Authors>
